@@ -1,4 +1,12 @@
-# Lumina Design Agency - Homepage
+ <h2 align="center">  Lumina Design Agency - Homepage <h2>
+<div align="center">
+  
+  <br><a href="https://lumina-six-nu.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_Website-2ECC71?style=for-the-badge&logoColor=white" alt="Visit Website Button" />
+  </a>
+
+</div>
+</br>
 
 A modern, responsive Design Agency Homepage built with Next.js 15, TypeScript, and Tailwind CSS.
 
